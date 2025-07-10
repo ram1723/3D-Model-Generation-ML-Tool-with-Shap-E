@@ -1,7 +1,7 @@
 # 3D-Model-Generation-ML-Tool-with-Shap-E
 This was coded for the internship application assignment at Red Panda Games
 
-# 3D Asset Generation with Shap-E
+
 
 This repository demonstrates a lightweight **3D model generation tool** powered by OpenAI's Shap‑E. Using a simple Python script (`model.py`), you can turn text prompts into 3D meshes in `.obj`/`.glb` formats, preview them as images, and even serve them through a minimal API.
 
